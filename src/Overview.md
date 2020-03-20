@@ -36,6 +36,17 @@ One can access
 ###### How to access SnowFlake
 
 1. Web interface
+2. snowflake CLI
+
+
+###### Snowflake tools
+
+  - Download required tool from Help -> Downloads 
+  
+    * CLI  - snowsql
+    * jdbc
+    * odbc
+    * Spark connector
 
 
 
